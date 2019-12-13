@@ -17,7 +17,7 @@ module.exports = {
     "rules": {
         // 缩进
         "indent": [
-            "error", "tab"
+            "error", 4
         ],
         "linebreak-style": [ // 强制使用一致的换行风格
             "error",
